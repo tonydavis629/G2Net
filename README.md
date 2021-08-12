@@ -9,5 +9,7 @@ The final score was .80 as graded by Kaggle.
 To do:
 
 Further low frequency noise attenuation for better SNR 
+
 More appropriate model architecture for optimal training of full dataset
+
 Hyperparameter optimization
